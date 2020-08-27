@@ -1,7 +1,5 @@
-# Django Projects
+# This project contains 2 apps: Tasks and Is It New Years?
 
-use command
-
+use command:
 python3 manage.py runserver
-
-to run
+to run either app
